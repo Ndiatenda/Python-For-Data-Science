@@ -21,4 +21,7 @@ https://gist.github.com/fb25f4353e31cbd799949a6961d50921
 * Tuples in Python:
 https://gist.github.com/80df1fe07c06663debbc3d251ad7923c
 
+* Lists in Python
+https://gist.github.com/f0b2fabe7fb248b09ac130438eb12a39
+
 
