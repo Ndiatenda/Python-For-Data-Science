@@ -24,4 +24,7 @@ https://gist.github.com/80df1fe07c06663debbc3d251ad7923c
 * Lists in Python
 https://gist.github.com/f0b2fabe7fb248b09ac130438eb12a39
 
+* From Lists to Set
+https://gist.github.com/89b213417640d694135f860e2e6894ba
+
 
