@@ -27,6 +27,10 @@ https://gist.github.com/f0b2fabe7fb248b09ac130438eb12a39
 * From Lists to Set
 https://gist.github.com/c7e018f22bae7d2ab054dfe68b8cd2b3
 
+* Sets in Python
+https://gist.github.com/08cb1544a1891bb06df3c9128469f25a
+
+
 
 
 
