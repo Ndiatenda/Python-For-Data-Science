@@ -10,13 +10,20 @@
 6. How to operate on files to read and write data in Python
 7. How to use pandas
 
+- - - - 
 ### The following are links to notebooks showcasing my hands-on labs in Python:
+<details>
+  <summary>Module 1: Python Basics</summary>
 
 * Introductory Python Code: 
 https://gist.github.com/6e969cb1337af7eca8da6f4b1e44b4b5
 
 * String Operations:
 https://gist.github.com/fb25f4353e31cbd799949a6961d50921
+</details>
+
+<details>
+<summary>Module 2: Python Data Structures</summary>
 
 * Tuples in Python:
 https://gist.github.com/80df1fe07c06663debbc3d251ad7923c
@@ -32,8 +39,7 @@ https://gist.github.com/08cb1544a1891bb06df3c9128469f25a
 
 * Dictionaries
 https://gist.github.com/5b199bdc9af5e19c9471c4258db4929d
-
-
+</details>
 
 
 
