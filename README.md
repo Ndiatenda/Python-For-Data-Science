@@ -30,6 +30,11 @@ https://gist.github.com/c7e018f22bae7d2ab054dfe68b8cd2b3
 * Sets in Python
 https://gist.github.com/08cb1544a1891bb06df3c9128469f25a
 
+* Dictionaries
+https://gist.github.com/5b199bdc9af5e19c9471c4258db4929d
+
+
+
 
 
 
