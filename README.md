@@ -13,7 +13,7 @@
 - - - - 
 ### The following are links to notebooks showcasing my hands-on labs in Python:
 <details>
-  <summary>Module 1: Python Basics</summary>
+  <summary>Module 1 - Python Basics</summary>
 
 * Introductory Python Code: 
 https://gist.github.com/6e969cb1337af7eca8da6f4b1e44b4b5
@@ -23,25 +23,31 @@ https://gist.github.com/fb25f4353e31cbd799949a6961d50921
 </details>
 
 <details>
-<summary>Module 2: Python Data Structures</summary>
+<summary>Module 2 - Python Data Structures</summary>
 
 * Tuples in Python:
 https://gist.github.com/80df1fe07c06663debbc3d251ad7923c
 
-* Lists in Python
+* Lists in Python:
 https://gist.github.com/f0b2fabe7fb248b09ac130438eb12a39
 
-* From Lists to Set
+* From Lists to Set:
 https://gist.github.com/c7e018f22bae7d2ab054dfe68b8cd2b3
 
-* Sets in Python
+* Sets in Python:
 https://gist.github.com/08cb1544a1891bb06df3c9128469f25a
 
-* Dictionaries
+* Dictionaries:
 https://gist.github.com/5b199bdc9af5e19c9471c4258db4929d
 </details>
 
+<details>
+<summary>Module 3 - Python Programming Fundamentals</summary>
+  
+* Conditions and Branching:
+https://gist.github.com/91288c5282a03108f59e05d310cfe277
 
+</details>
 
 
 
