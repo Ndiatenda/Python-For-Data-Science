@@ -44,10 +44,12 @@ https://gist.github.com/5b199bdc9af5e19c9471c4258db4929d
 <details>
 <summary>Module 3 - Python Programming Fundamentals</summary>
   
-* Conditions and Branching:
+* Introduction to Conditions and Branching:
 https://gist.github.com/91288c5282a03108f59e05d310cfe277
 
-</details>
+* Conditions and Branching:
+https://gist.github.com/4a0c5062aefbc130f57f1a941046b1c4
 
+</details>
 
 
