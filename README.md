@@ -50,6 +50,10 @@ https://gist.github.com/91288c5282a03108f59e05d310cfe277
 * Conditions and Branching:
 https://gist.github.com/4a0c5062aefbc130f57f1a941046b1c4
 
+* Introduction to Loops
+https://gist.github.com/dc019f75da053c8bc112a8e832685de3
+
+
 </details>
 
 
