@@ -56,6 +56,9 @@ https://gist.github.com/dc019f75da053c8bc112a8e832685de3
 * Loops in Python:
 https://gist.github.com/9f1fc083c9519eb6bc4e32126810926c
 
+* Introduction to Functions:
+https://gist.github.com/8961a8c1d69d08cdbe089bf0a21d7e1c
+
 
 </details>
 
