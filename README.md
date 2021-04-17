@@ -66,7 +66,8 @@ https://gist.github.com/fd344de74fb0e48ca1575b74a12d1373
 https://gist.github.com/21f652d7ebb238802451d152b12b16e8
 
 * Objects and Classes in Python
-https://gist.github.com/94040a88661a53c812ac640baf9b0b10
+https://gist.github.com/abfa8dcf887b86c012ad2d6bc94e514f
+
 
 
 </details>
