@@ -68,6 +68,9 @@ https://gist.github.com/21f652d7ebb238802451d152b12b16e8
 * Objects and Classes in Python
 https://gist.github.com/0f23f926b2f1d2be9037ae6d58e2c874
 
+* Exception Handling
+https://gist.github.com/02569e7f8e1f1df98264205c9670f2a0
+
 
 </details>
 
