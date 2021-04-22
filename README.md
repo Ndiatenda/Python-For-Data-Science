@@ -69,7 +69,13 @@ https://gist.github.com/21f652d7ebb238802451d152b12b16e8
 https://gist.github.com/0f23f926b2f1d2be9037ae6d58e2c874
 
 
-
 </details>
 
+<details>
+<summary>Module 4 - Working with Data in Python</summary>
 
+* Reading Files in Python:
+https://gist.github.com/e20bd1140e898b090422018eef91f4c6
+
+
+</details>
