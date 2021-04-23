@@ -81,8 +81,7 @@ https://gist.github.com/02569e7f8e1f1df98264205c9670f2a0
 https://gist.github.com/e20bd1140e898b090422018eef91f4c6
 
 * Write and Save Files in Python
-https://gist.github.com/63f737c573da7b2f8e7ddf1220a690c9
-
+https://gist.github.com/e126b6bea57b4a28b5680c87288f63e9
 
 
 </details>
