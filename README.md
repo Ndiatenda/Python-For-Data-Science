@@ -86,5 +86,8 @@ https://gist.github.com/e126b6bea57b4a28b5680c87288f63e9
 * Introduction to Pandas
 https://gist.github.com/666ba5748dc093528604c91b223dfce5
 
+* Pandas array
+https://gist.github.com/8a34b52c24581ea584309d9dd1ecec6a
+
 
 </details>
