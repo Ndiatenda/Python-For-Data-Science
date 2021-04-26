@@ -83,12 +83,14 @@ https://gist.github.com/e20bd1140e898b090422018eef91f4c6
 * Write and Save Files in Python
 https://gist.github.com/e126b6bea57b4a28b5680c87288f63e9
 
-* Get to Know Pandas Array
+* Get to Know a Pandas Array 1
 https://gist.github.com/5739b9c052f985b6048f8b814d8d4afb
 
 
-* Pandas array
-https://gist.github.com/8a34b52c24581ea584309d9dd1ecec6a
+* Get to Know a Pandas Array 2
+https://gist.github.com/74f577dd424f4745b1ad3189af3b1091
+
+
 
 </details>
 
