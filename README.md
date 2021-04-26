@@ -97,5 +97,8 @@ https://gist.github.com/8a34b52c24581ea584309d9dd1ecec6a
 * Introduction to 1D Numpy Array
 https://gist.github.com/30c0d7f36cc8002eecd4878895429d1d
 
+* 1D Numpy in Python
+https://gist.github.com/75545a54b7c876baae06bc3a8ae89e49
+
 
 </details>
