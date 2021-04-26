@@ -89,5 +89,13 @@ https://gist.github.com/666ba5748dc093528604c91b223dfce5
 * Pandas array
 https://gist.github.com/8a34b52c24581ea584309d9dd1ecec6a
 
+</details>
+
+<details>
+<summary>Module 5 - Working Numpy Arrays</summary>
+  
+* Introduction to 1D Numpy Array
+https://gist.github.com/30c0d7f36cc8002eecd4878895429d1d
+
 
 </details>
