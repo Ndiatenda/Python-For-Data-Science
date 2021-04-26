@@ -100,5 +100,8 @@ https://gist.github.com/30c0d7f36cc8002eecd4878895429d1d
 * 1D Numpy in Python
 https://gist.github.com/75545a54b7c876baae06bc3a8ae89e49
 
+* Get to Know 2D Numpy Array
+https://gist.github.com/256d87d4cabf737bfced834ef675fb45
+
 
 </details>
