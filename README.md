@@ -90,7 +90,8 @@ https://gist.github.com/5739b9c052f985b6048f8b814d8d4afb
 * Get to Know a Pandas Array 2
 https://gist.github.com/74f577dd424f4745b1ad3189af3b1091
 
-
+* Loading and Viewing Data
+https://gist.github.com/67fff30229390e23104365d1c2d6e251
 
 </details>
 
