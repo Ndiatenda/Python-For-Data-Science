@@ -59,16 +59,16 @@ https://gist.github.com/9f1fc083c9519eb6bc4e32126810926c
 * Introduction to Functions:
 https://gist.github.com/8961a8c1d69d08cdbe089bf0a21d7e1c
 
-* Functions in Python
+* Functions in Python:
 https://gist.github.com/fd344de74fb0e48ca1575b74a12d1373
 
-* Introduction to Objects and Classes
+* Introduction to Objects and Classes:
 https://gist.github.com/21f652d7ebb238802451d152b12b16e8
 
-* Objects and Classes in Python
+* Objects and Classes in Python:
 https://gist.github.com/0f23f926b2f1d2be9037ae6d58e2c874
 
-* Exception Handling
+* Exception Handling:
 https://gist.github.com/02569e7f8e1f1df98264205c9670f2a0
 
 
@@ -80,17 +80,17 @@ https://gist.github.com/02569e7f8e1f1df98264205c9670f2a0
 * Reading Files in Python:
 https://gist.github.com/e20bd1140e898b090422018eef91f4c6
 
-* Write and Save Files in Python
+* Write and Save Files in Python:
 https://gist.github.com/e126b6bea57b4a28b5680c87288f63e9
 
-* Get to Know a Pandas Array 1
+* Get to Know a Pandas Array 1:
 https://gist.github.com/5739b9c052f985b6048f8b814d8d4afb
 
 
-* Get to Know a Pandas Array 2
+* Get to Know a Pandas Array 2:
 https://gist.github.com/74f577dd424f4745b1ad3189af3b1091
 
-* Loading and Viewing Data
+* Loading and Viewing Data:
 https://gist.github.com/67fff30229390e23104365d1c2d6e251
 
 </details>
@@ -98,16 +98,16 @@ https://gist.github.com/67fff30229390e23104365d1c2d6e251
 <details>
 <summary>Module 5 - Working Numpy Arrays</summary>
   
-* Introduction to 1D Numpy Array
+* Introduction to 1D Numpy Array:
 https://gist.github.com/30c0d7f36cc8002eecd4878895429d1d
 
-* 1D Numpy in Python
+* 1D Numpy in Python:
 https://gist.github.com/75545a54b7c876baae06bc3a8ae89e49
 
-* Get to Know 2D Numpy Array
+* Get to Know 2D Numpy Array:
 https://gist.github.com/256d87d4cabf737bfced834ef675fb45
 
-* 2D Numpy in Python
+* 2D Numpy in Python:
 https://gist.github.com/af6bd45c0cd216f3d8eeba56f7b845c1
 
 
