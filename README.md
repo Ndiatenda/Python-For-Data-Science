@@ -110,5 +110,8 @@ https://gist.github.com/256d87d4cabf737bfced834ef675fb45
 * 2D Numpy in Python:
 https://gist.github.com/af6bd45c0cd216f3d8eeba56f7b845c1
 
+* HTTP and Requests:
+https://gist.github.com/7c5e1ecbe49dad9122c56f12630706b8
+
 
 </details>
