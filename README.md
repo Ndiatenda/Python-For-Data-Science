@@ -93,6 +93,9 @@ https://gist.github.com/74f577dd424f4745b1ad3189af3b1091
 * Loading and Viewing Data:
 https://gist.github.com/67fff30229390e23104365d1c2d6e251
 
+* API - Watson Speech to Text Translator:
+https://gist.github.com/9112411e9dad03c63b784241cb6f7e6c
+
 </details>
 
 <details>
