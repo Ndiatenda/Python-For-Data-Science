@@ -1,6 +1,8 @@
 # Python For Data-Science
 ***Python for Data Science (PY0101EN) is an online course offered by IBM. Completing this course will count towards learning Data Science fundamentals with Python and SQL.***
 
+<img src="Images/python-for-data-science.png" width="900" height="400" /> | <img src="Images/certificate.jpg" width="1300" height="500" />
+---------------------------------------------------------------------------|----------------------------
 ### In this course I learn:
 1. What is Python and why is it useful
 2. The application of Python 
